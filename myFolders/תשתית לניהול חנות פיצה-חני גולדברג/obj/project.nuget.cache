@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4JMw5l0LDImoOdaN60PCjg/qezuFraOuYbD56RgY2dNDdNd15PDuF4QZHOXm2xypp4jbCfOKzx4RfDYom5BQ5g==",
+  "success": true,
+  "projectFilePath": "H:\\webAPI\\myFolders\\תשתית לניהול חנות פיצה-חני גולדברג\\תשתית לניהול חנות פיצה-חני גולדברג.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\גולדברג חנה\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\גולדברג חנה\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\גולדברג חנה\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\גולדברג חנה\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\גולדברג חנה\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\גולדברג חנה\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+H:\webAPI\myServices\obj\Debug\net8.0\myServices.csproj.AssemblyReference.cache
+H:\webAPI\myServices\obj\Debug\net8.0\myServices.GeneratedMSBuildEditorConfig.editorconfig
+H:\webAPI\myServices\obj\Debug\net8.0\myServices.AssemblyInfoInputs.cache
+H:\webAPI\myServices\obj\Debug\net8.0\myServices.AssemblyInfo.cs
+H:\webAPI\myServices\obj\Debug\net8.0\myServices.csproj.CoreCompileInputs.cache
+H:\webAPI\myServices\bin\Debug\net8.0\myServices.deps.json
+H:\webAPI\myServices\bin\Debug\net8.0\myServices.dll
+H:\webAPI\myServices\bin\Debug\net8.0\myServices.pdb
+H:\webAPI\myServices\bin\Debug\net8.0\myModels.dll
+H:\webAPI\myServices\bin\Debug\net8.0\myModels.pdb
+H:\webAPI\myServices\obj\Debug\net8.0\myServices.csproj.CopyComplete
+H:\webAPI\myServices\obj\Debug\net8.0\myServices.dll
+H:\webAPI\myServices\obj\Debug\net8.0\refint\myServices.dll
+H:\webAPI\myServices\obj\Debug\net8.0\myServices.pdb
+H:\webAPI\myServices\obj\Debug\net8.0\ref\myServices.dll

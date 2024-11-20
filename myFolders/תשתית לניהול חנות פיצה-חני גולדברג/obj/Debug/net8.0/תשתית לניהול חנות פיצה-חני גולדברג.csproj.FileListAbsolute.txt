@@ -1,0 +1,69 @@
+H:\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\appsettings.Development.json
+H:\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\appsettings.json
+H:\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.exe
+H:\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.deps.json
+H:\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.runtimeconfig.json
+H:\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.dll
+H:\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.pdb
+H:\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.csproj.AssemblyReference.cache
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.GeneratedMSBuildEditorConfig.editorconfig
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.AssemblyInfoInputs.cache
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.AssemblyInfo.cs
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.csproj.CoreCompileInputs.cache
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.MvcApplicationPartsAssemblyInfo.cs
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.MvcApplicationPartsAssemblyInfo.cache
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\staticwebassets.build.json
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\staticwebassets.development.json
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\staticwebassets\msbuild.תשתית לניהול חנות פיצה-חני גולדברג.Microsoft.AspNetCore.StaticWebAssets.props
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\staticwebassets\msbuild.build.תשתית לניהול חנות פיצה-חני גולדברג.props
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.תשתית לניהול חנות פיצה-חני גולדברג.props
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.תשתית לניהול חנות פיצה-חני גולדברג.props
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\staticwebassets.pack.json
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\scopedcss\bundle\תשתית לניהול חנות פיצה-חני גולדברג.styles.css
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.csproj.CopyComplete
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.dll
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\refint\תשתית לניהול חנות פיצה-חני גולדברג.dll
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.pdb
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.genruntimeconfig.cache
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\ref\תשתית לניהול חנות פיצה-חני גולדברג.dll
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\appsettings.Development.json
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\appsettings.json
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.exe
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.deps.json
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.runtimeconfig.json
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.dll
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.pdb
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.csproj.AssemblyReference.cache
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.GeneratedMSBuildEditorConfig.editorconfig
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.AssemblyInfoInputs.cache
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.AssemblyInfo.cs
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.csproj.CoreCompileInputs.cache
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.MvcApplicationPartsAssemblyInfo.cs
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.MvcApplicationPartsAssemblyInfo.cache
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.sourcelink.json
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\staticwebassets.build.json
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\staticwebassets.development.json
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\staticwebassets\msbuild.תשתית לניהול חנות פיצה-חני גולדברג.Microsoft.AspNetCore.StaticWebAssets.props
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\staticwebassets\msbuild.build.תשתית לניהול חנות פיצה-חני גולדברג.props
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.תשתית לניהול חנות פיצה-חני גולדברג.props
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.תשתית לניהול חנות פיצה-חני גולדברג.props
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\staticwebassets.pack.json
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\scopedcss\bundle\תשתית לניהול חנות פיצה-חני גולדברג.styles.css
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.csproj.CopyComplete
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.dll
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\refint\תשתית לניהול חנות פיצה-חני גולדברג.dll
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.pdb
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.genruntimeconfig.cache
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\ref\תשתית לניהול חנות פיצה-חני גולדברג.dll
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\myModels.dll
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\myServices.dll
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\myServices.pdb
+H:\webAPI\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\myModels.pdb
